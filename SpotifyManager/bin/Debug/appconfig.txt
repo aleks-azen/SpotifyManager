@@ -1,0 +1,13 @@
+***modifiers***
+CTRL-enable
+ALT-enable
+SHIFT-disable
+
+
+***BINDINGS***
+NEXT-Right
+PREVIOUS-Left
+VOLUMEUP-O
+VOLUMEDOWN-L
+PAUSEPLAY-Space
+MUTE-M
